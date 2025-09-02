@@ -1,5 +1,7 @@
 # IEEE-CIS Fraud Detection Competition
 
+**Competition Link**: [IEEE-CIS Fraud Detection | Kaggle](https://www.kaggle.com/competitions/ieee-fraud-detection)
+
 **Final Ranking: top 1% solution (58th out of 6,355)**  
 **Best Submission Score: 0.934238 (Private) | 0.959849 (Public)**
 
