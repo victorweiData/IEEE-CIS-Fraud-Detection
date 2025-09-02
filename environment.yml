@@ -1,0 +1,27 @@
+name: ieee-cis-fraud
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - plotly
+  - jupyter
+  - notebook
+  - ipykernel
+  - xgboost
+  - lightgbm
+  - catboost
+  - tqdm
+  - joblib
+  - pip
+  - pip:
+    - imbalanced-learn
+    - optuna
+    - category_encoders
+    - shap
+    - kaggle
